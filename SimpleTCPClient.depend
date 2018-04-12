@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1442589057 source:c:\users\Андрей\desktop\simpletcpclient\simpletcpclient.cpp
+	"commonutils.h"
+	<string>
+	<sstream>
+
+1441362175 c:\users\Андрей\desktop\simpletcpclient\commonutils.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<cstdio>
+	<time.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<errno.h>
+
+1444323977 source:d:\andrey\backup\учеба\5_курс\1 триместр\Пузирьов\simpletcpclient\simpletcpclient.cpp
+	"commonutils.h"
+	<string>
+	<sstream>
+	<vector>
+
+1442585414 d:\andrey\backup\учеба\5_курс\1 триместр\Пузирьов\simpletcpclient\commonutils.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<cstdio>
+	<time.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<errno.h>
+
+1444323977 source:c:\users\elena\desktop\Пузирьов\simpletcpclient\simpletcpclient.cpp
+	"commonutils.h"
+	<string>
+	<sstream>
+	<vector>
+
+1442585414 c:\users\elena\desktop\Пузирьов\simpletcpclient\commonutils.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<winsock2.h>
+	<cstdio>
+	<time.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<pthread.h>
+	<errno.h>
+
